@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe.config
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\bin\Debug\Memory_Game.pdb
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.exe
+C:\Users\Acer\source\repos\Memory_Game\Memory_Game\obj\Debug\Memory_Game.pdb
